@@ -1,2 +1,0 @@
-# Systemverilog
-uvm template
