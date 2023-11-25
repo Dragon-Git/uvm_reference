@@ -1,0 +1,6 @@
+[submodule "uvm-verilator"]
+	path = uvm-verilator
+	url = https://github.com/chipsalliance/uvm-verilator
+[submodule "uvm-accellera"]
+	path = uvm-accellera
+	url = https://github.com/accellera/uvm
