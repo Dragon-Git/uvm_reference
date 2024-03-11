@@ -4,3 +4,6 @@
 [submodule "uvm-accellera"]
 	path = uvm-accellera
 	url = https://github.com/accellera/uvm
+[submodule "uvm-core"]
+	path = uvm-core
+	url = https://github.com/Dragon-Git/uvm-core.git
